@@ -1,3 +1,5 @@
+<img src = 'GitHubBanner.png' alt = 'Banner'/>
+
 ### Hi there 👋
 
 <!--

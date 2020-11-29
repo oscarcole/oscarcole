@@ -19,8 +19,8 @@ I am just now starting to upload things into GitHub, most of my work had been pr
 [![Django](https://img.shields.io/badge/WebBased-Django-0c4b33?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/WebBased-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/1.1.x/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-13aa52?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
-[![SQL](https://img.shields.io/badge/Database-SQL-informational?style=for-the-badge&logo=Flask&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 [![CSharp](https://img.shields.io/badge/Language-CSharp-informational?style=for-the-badge&logo=C&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/)
+[![SQL](https://img.shields.io/badge/Database-SQL-informational?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 
 #### Social
 -Do your stalking

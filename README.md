@@ -7,8 +7,8 @@ I am just now starting to upload things into GitHub, most of my work had been pr
 <hr/>
 
 #### Technologies
-- Currently only working with Python, Pytest, and Selenium as I am looking to enter the field of test automation
-- I am debating on starting a blog on https://dev.to/ to somewhat keep me accountable to building projects.
+- Currently only working with Python
+- I have started a blog recently to document my 100 days of code, you can view it here: www.thenorthcole.com
 
 
 [![Python](https://img.shields.io/badge/Language-Python-3e7cad?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)

@@ -7,7 +7,7 @@ I am just now starting to upload things into GitHub, most of my work had been pr
 <hr/>
 
 #### Technologies
-- Currently working with Python and JavaScript
+- Currently working with Python and Selenium
 
 
 [![Python](https://img.shields.io/badge/Language-Python-3e7cad?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)

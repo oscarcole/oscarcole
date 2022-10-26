@@ -2,12 +2,10 @@
 
 ### Welcome to my GitHub page 👋
 
-
-I am just now starting to upload things into GitHub, most of my work had been proprietary and I could not release them as public repos. I have since taken all my private repos down and am starting fresh.
 <hr/>
 
 #### Technologies
-- Currently working with Python, Pytest, and Selenium
+- Currently learning Javascript
 
 
 [![Python](https://img.shields.io/badge/Language-Python-3e7cad?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)

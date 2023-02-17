@@ -5,8 +5,6 @@
 <hr/>
 
 #### Technologies
-- Currently learning Javascript
-
 
 [![Python](https://img.shields.io/badge/Language-Python-3e7cad?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Pytest](https://img.shields.io/badge/Test-Pytest-ffdd53?style=for-the-badge&logo=Python&logoColor=white)](https://docs.pytest.org/en/latest/)

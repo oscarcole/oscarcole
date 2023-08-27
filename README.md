@@ -21,4 +21,3 @@
 -Do your stalking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarcole-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarcole/)
-[![Twitter](https://img.shields.io/badge/Twitter-oscarcole-lightblue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/TheN0rthC0le/)
